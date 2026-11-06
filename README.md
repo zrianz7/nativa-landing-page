@@ -56,5 +56,3 @@ Isso impede setas soltas no rodapé e no contato.
 ### Atenção
 
 Confirme o número comercial do WhatsApp antes de enviar a versão final.
-
-testando branch develop
