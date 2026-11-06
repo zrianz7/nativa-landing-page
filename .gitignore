@@ -1,0 +1,19 @@
+
+# Dependências
+node_modules/
+
+# Arquivos locais da Vercel
+.vercel/
+
+# Configurações sensíveis
+.env
+.env.*
+!.env.example
+
+# Arquivos temporários
+*.log
+.DS_Store
+Thumbs.db
+
+# Configurações locais
+.vscode/
